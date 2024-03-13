@@ -1,0 +1,1 @@
+# moshiurtonmoy-MVFR-Multilingual-Visual-Font-Recognition-Synthetic-Dataset
