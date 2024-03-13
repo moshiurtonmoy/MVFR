@@ -34,12 +34,17 @@ recognition of the respective language e.g. browser extensions, mobile apps, etc
 vision applications as well, for instance, researchers can experiment with this dataset
 for optical character recognition (OCR) from diverse font styles as well.
 
-## Sample Instances
+## Sample Data Instances
+
+<img src="https://github.com/moshiurtonmoy/MVFR-Multilingual-Visual-Font-Recognition-Synthetic-Dataset/blob/master/sample_data/BN.jpg" alt="sample_data_BN"/>
+<img src="https://github.com/moshiurtonmoy/MVFR-Multilingual-Visual-Font-Recognition-Synthetic-Dataset/blob/master/sample_data/Hindi.jpg" alt="sample_data_Hindi"/>
+<img src="https://github.com/moshiurtonmoy/MVFR-Multilingual-Visual-Font-Recognition-Synthetic-Dataset/blob/master/sample_data/Russian.jpg" alt="sample_data_Russian"/>
+<img src="https://github.com/moshiurtonmoy/MVFR-Multilingual-Visual-Font-Recognition-Synthetic-Dataset/blob/master/sample_data/Spanish.jpg" alt="sample_data_Spanish"/>
 
 
+## Data Repository
+<a href="https://data.mendeley.com/datasets/cnd2wh65my/1">Mendeley Data </a>
 
-
-<hr/>
 
 <!--
 **If you find this repository helpful to your research work, kindly cite the following** - 
