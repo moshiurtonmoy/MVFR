@@ -17,7 +17,7 @@ generate synthetic VFR image data for additional languages, furthering the progr
 the VFR field in languages with limited resources.
 
 <ul>
-  <li>The dataset has been published in <b><i>IEEE Data Descriptions</i></b> and the full article can be accessed publicly from <a target='_blank' href="https://ieeexplore.ieee.org/abstract/document/10680521"> IEEE Xplore</a></li>
+  <li>The dataset has been published in <b><i>IEEE Data Descriptions</i></b> and can be accessed from <a target='_blank' href="https://ieeexplore.ieee.org/abstract/document/10680521"> IEEE Xplore</a></li>
   <li>Access the dataset directly from <a href="https://data.mendeley.com/datasets/cnd2wh65my/1">Mendeley Data</a></li>
 </ul>
 
